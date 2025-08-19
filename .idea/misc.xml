@@ -4,7 +4,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/gestion_boutique/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/crud-springboot/pom.xml" />
+>>>>>>> 4a07e91 (Api de gestion des employes)
       </list>
     </option>
   </component>
